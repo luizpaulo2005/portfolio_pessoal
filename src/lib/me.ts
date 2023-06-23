@@ -1,6 +1,6 @@
 export const about_me = {
     nome: "Luiz Paulo",
-    idade: 17,
+    idade: 18,
     local: "Batayporã, MS",
     escolaridade: [
         {
