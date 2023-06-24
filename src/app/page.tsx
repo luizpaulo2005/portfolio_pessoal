@@ -20,7 +20,7 @@ const Home = () => {
                 <About/>
 
                 <div className="text-center text-2xl font-bold flex flex-col gap-2 w-full lg:w-1/2">
-                    Possuo conhecimento sobre as seguintes bibliotecas:
+                    Possuo conhecimento sobre as seguintes bibliotecas e frameworks:
                     <AnimatedIcons/>
                 </div>
             </div>
