@@ -2,6 +2,16 @@ export const about_me = {
     nome: "Luiz Paulo",
     idade: 18,
     local: "Batayporã, MS",
+    contato: [
+        {
+            tipo: "Telefone",
+            content: "(67) 9 9954-2138"
+        },
+        {
+            tipo: "Email",
+            content: "luizpaulorodrigues2005@gmail.com"
+        }
+    ],
     escolaridade: [
         {
             instituicao: "Instituto Federal de Mato Grosso do Sul - Campus Nova Andradina",
